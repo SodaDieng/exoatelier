@@ -1,0 +1,42 @@
+
+body{
+    font-family: montserrat;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    border:1px solid black ;
+
+}
+.Accueil{
+    display: flex;
+    justify-content: space-evenly;
+   
+
+}
+.logo{
+    background-color: rgb(187, 184, 184);
+    border-radius: 55px;
+    width: 55px;
+    height: 55px;
+    margin-top: 8px;
+   
+}
+.A{
+    margin: 4px;
+    text-decoration: none;
+    list-style: none;
+}
+.h1{
+
+    font-size: 16px;
+    text-align: center ;
+
+}
+
+
+
+
+
+
+    
